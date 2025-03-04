@@ -22,21 +22,21 @@ This model examines how the local prevalence of a disease influences individuals
 
 ## Model Visualization
 
-![Model Visualization](1.png)
+![Model Visualization](model/1.png)
 
 ### 2. Global Prevalence-Based Model
 This model focuses on how global awareness, typically influenced by media reporting, affects the spread of an epidemic. The characteristic number of infected individuals reported plays a significant role in shaping public behavior.
 
 ## Model Visualization
 
-![Model Visualization](2.png)
+![Model Visualization](model/2.png)
 
 ### 3. Local Belief-Based Model
 This model evaluates the spread of fear and awareness based on local beliefs, which may or may not align with actual disease prevalence. The model modulates the transmission rate based on contact with either infected individuals or those exhibiting fear-driven behaviors.
 
 ## Model Visualization
 
-![Model Visualization](3.png)
+![Model Visualization](model/3.png)
 
 *All models are implemented in Python, using network-based simulations.*
 
